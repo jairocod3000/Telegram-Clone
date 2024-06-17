@@ -3,9 +3,11 @@ Creación de un clon de la plataforma web de Telegram basado en NodeJS.
 
 # ¿Cómo ejecutar el proyecto?
 # npm install
-# -Para instalar las dependencias necesarias
+# 
+ -Para instalar las dependencias necesarias
 # nodemon app.js 
-# -Para la ejecución del proyecto
+#
+ -Para la ejecución del proyecto
 
 # Mejoras que he intentado implementar de las opcionales
  -Permitir mantener una conversación privada con un usuario concreto. Se seleccionaría del panel izquierdo el usuario, y en una ventana independiente de la sala principal, se podría mantener una conversación.
