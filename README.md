@@ -9,7 +9,8 @@ Creación de un clon de la plataforma web de Telegram basado en NodeJS.
 #
  -Para la ejecución del proyecto
 #
--luego en mi caso ejecutar [localhost](http://localhost:3000/)
+-luego en mi caso ejecutar http://localhost:3000
+# Nota -> He estado usando vencel para poner el proyecto en producción pero no permite el tema de los socket y no funciona.
 # Mejoras que he intentado implementar de las opcionales
  -Permitir mantener una conversación privada con un usuario concreto. Se seleccionaría del panel izquierdo el usuario, y en una ventana independiente de la sala principal, se podría mantener una conversación.
 #
