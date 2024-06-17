@@ -7,7 +7,7 @@ Creación de un clon de la plataforma web de Telegram basado en NodeJS.
 # nodemon app.js 
 # -Para la ejecución del proyecto
 
-#Mejoras que he intentado implementar de las opcionales
+# Mejoras que he intentado implementar de las opcionales
  -Permitir mantener una conversación privada con un usuario concreto. Se seleccionaría del panel izquierdo el usuario, y en una ventana independiente de la sala principal, se podría mantener una conversación.
 #
 -El usuario se establece su propia imagen de avatar al inicio de la sesión.
